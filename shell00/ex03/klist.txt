@@ -1,0 +1,6 @@
+Credentials cache: API:3E4B0051-58A6-4F36-A249-645CD0EF7286
+        Principal: bbourcy@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul  7 07:22:16 2021  Jul  7 17:22:16 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Jul  7 07:22:18 2021  Jul  7 17:22:16 2021  HTTP/student-storage.42lausanne.ch@42LAUSANNE.CH
